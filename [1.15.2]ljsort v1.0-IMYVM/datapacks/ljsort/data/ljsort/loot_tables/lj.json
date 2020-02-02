@@ -1,0 +1,1845 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:kelp",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"菜叶\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:orange_carpet",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"橙子皮\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:tall_grass",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"葱\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:cookie",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"饼干\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:redstone",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"蕃茄酱\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:egg",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"蛋壳\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:melon_slice",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"西瓜皮\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:potato",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"马铃薯\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:bone",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"鱼骨\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:sugar_cane",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"甘蔗\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:gold_ingot",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"玉米\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:bone",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"鸡鸭鹅骨头\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:pink_carpet",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"虾壳\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:cake",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"蛋糕\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:bread",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"面包\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:beetroot",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"草莓\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:sweet_berries",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"西红柿\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:golden_apple",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"梨\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:rotten_flesh",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"蟹壳\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:yellow_carpet",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"香蕉皮\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:beetroot",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"辣椒\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:dark_oak_trapdoor",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"巧克力\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:chorus_plant",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"茄子\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:large_fern",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"碗豆皮\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:apple",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"苹果\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:oak_leaves",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"树叶\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:beetroot_soup",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"剩菜剩饭\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:rotten_flesh",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1,display:{Name:\"{\\\"text\\\":\\\"厨余垃圾\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:flower_pot",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"坏的花盆\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:white_glazed_terracotta",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"贝壳\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:wooden_hoe",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"化妆刷\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:flower_pot",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"坛子\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:sponge",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"海绵\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:brown_mushroom",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"花生壳\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:white_carpet",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"椰子壳\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:fern",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"粽叶\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:oak_slab",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"菜板\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:brick",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"砖块\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:kelp",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"玉米衣\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:paper",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"卫生纸\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:fire_charge",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"篮球\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:brown_dye",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"桃核\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:flower_pot",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"杯子\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:bowl",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"陶瓷碗\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:bamboo",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"一次性筷子\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:nether_brick",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"瓦片\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:brown_dye",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"西梅壳\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:wooden_shovel",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"扫把\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:trident",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,Damage:245,display:{Name:\"{\\\"text\\\":\\\"木质梳子\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:leather_chestplate",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"脏污衣服\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:torch",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"烟蒂\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:podzol",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"渣土\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:black_stained_glass",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"垃圾袋\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:horn_coral_fan",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"榴莲壳\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:lime_carpet",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"甘蔗皮\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:brown_dye",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"硬果壳\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:brown_dye",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:2,display:{Name:\"{\\\"text\\\":\\\"菠萝蜜核\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:milk_bucket",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"油漆桶\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:daylight_detector",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"镍镉电池\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:flint_and_steel",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"打火机\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:leather",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"创口贴\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:potion",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"酒精\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:birch_trapdoor",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"调色板\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:dried_kelp",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"油漆\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:spider_eye",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"胶囊药物\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:stick",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"温度计\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:conduit",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"过期药片\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:sea_pickle",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"荧光灯\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:prismarine_wall",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"蓄电池\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:iron_shovel",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,Damage:245,display:{Name:\"{\\\"text\\\":\\\"医用棉签\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:furnace",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"煤气罐\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:lily_pad",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"医用手套\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:redstone_torch",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"杀虫剂\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:blaze_rod",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"水彩笔\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:flower_pot",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"农药瓶\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:paper",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"医用纱布\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:potion",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"口服液瓶\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:potion",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"香水瓶\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:blaze_rod",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"荧光棒\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:composter",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"过期化妆品\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:flint",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"发胶\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:totem_of_undying",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"注射器\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:sea_lantern",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:4,display:{Name:\"{\\\"text\\\":\\\"废弃灯泡\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:potion",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"塑料瓶\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:flower_pot",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"食品罐头\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:potion",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"玻璃瓶\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:bucket",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"易拉罐\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:paper",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"报纸\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:chest",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"旧书包\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:painting",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"旧手提包\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:leather_boots",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"旧鞋子\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:red_mushroom_block",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"牛奶盒\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:dried_kelp_block",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"旧塑料篮子\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:leather_horse_armor",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"旧玩偶\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:potion",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"玻璃壶\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:bowl",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"旧铁锅\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:composter",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"垃圾桶\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:glass_pane",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"旧镜子\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:wooden_axe",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,Damage:56,display:{Name:\"{\\\"text\\\":\\\"牙刷\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:sugar_cane",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"塑料梳子\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:leather_helmet",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"旧帽子\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:oak_fence_gate",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"旧夹子\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:tripwire_hook",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"废锁头\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:white_carpet",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"牙膏皮\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:iron_bars",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"雨伞骨架\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:smooth_quartz_slab",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"旧纸袋\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:chest",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"纸盒\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:creeper_head",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:8,display:{Name:\"{\\\"text\\\":\\\"旧玩具\\\"}\"}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

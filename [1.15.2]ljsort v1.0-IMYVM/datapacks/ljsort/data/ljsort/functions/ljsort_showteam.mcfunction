@@ -1,0 +1,2 @@
+tellraw @s ["", {"text":"["},{"text":"什么垃圾","color":"gray"},{"text":"] "},{"text":"黑色垃圾队: ","color":"black"},{"selector":"@a[team=ljsort_black]"}]
+tellraw @s ["", {"text":"["},{"text":"什么垃圾","color":"gray"},{"text":"] "},{"text":"白色垃圾队: ","color":"white"},{"selector":"@a[team=ljsort_white]"}]

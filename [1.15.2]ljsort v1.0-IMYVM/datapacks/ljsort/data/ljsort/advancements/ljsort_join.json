@@ -1,0 +1,27 @@
+{
+   "criteria": {
+           "example": {
+               "trigger": "minecraft:location",
+               "conditions": {
+                   "dimension": "minecraft:overworld",
+                   "position": {
+                       "x": {
+                           "min": -595,
+                           "max": -586
+                       },
+                       "y": {
+                           "min": 117,
+                           "max": 118
+                       },
+                       "z": {
+                           "min": 789,
+                           "max": 801
+                       }
+                   }
+               }
+           }
+       },
+    "rewards":{
+        "function":"ljsort:ljsort_join"
+    }
+}

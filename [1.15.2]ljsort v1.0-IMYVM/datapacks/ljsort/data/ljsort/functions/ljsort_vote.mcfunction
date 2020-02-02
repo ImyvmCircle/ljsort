@@ -1,0 +1,3 @@
+setblock -591 118 794 air replace
+
+setblock -591 118 794 minecraft:oak_wall_sign[facing=south]{Text1:"[{\"text\":\"给地图点个赞吧\",\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"scoreboard players add 什么垃圾 vote_count 1\"}}]",Text2:"[{\"text\":\" \",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"particle minecraft:heart ~ ~1 ~\"}}]",Text3:"[{\"text\":\"总点赞次数:\", \"clickEvent\":{\"action\":\"run_command\",\"value\":\"function ljsort:ljsort_vote\"}}]",Text4:"[{\"clickEvent\":{\"action\":\"run_command\",\"value\":\" \"},\"score\":{\"name\":\"什么垃圾\",\"objective\":\"vote_count\"},\"color\":\"green\"}]"} replace
